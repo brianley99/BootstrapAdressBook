@@ -1,0 +1,13 @@
+body {
+    background: rgb(7,131,200);
+    background: radial-gradient(circle, rgb(43, 43, 43) 75%, rgb(19, 19, 19) 100%);
+}
+
+.bg-light {
+    background-color: rgb(209, 209, 209);
+    border-radius: 1rem;
+}
+
+img {
+    border-radius: 50%;
+}
